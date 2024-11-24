@@ -1,4 +1,4 @@
-# Hit the Spider
+# Hit the mosquito
 
 A fun and interactive game where players try to hit spiders as fast as they can. Built using Windows Forms (C#), this game challenges your reflexes and accuracy.
 
