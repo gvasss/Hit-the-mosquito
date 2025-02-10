@@ -28,7 +28,7 @@ A fun and interactive game where players try to hit spiders as fast as they can.
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/hit-the-spider.git
+    git clone https://github.com/gvasss/hit-the-spider.git
     ```
 
 2. Open the solution file (`Game2.sln`) using Visual Studio.
